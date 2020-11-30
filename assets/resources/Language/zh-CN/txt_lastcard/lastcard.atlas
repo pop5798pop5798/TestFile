@@ -1,0 +1,146 @@
+
+lastcard.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 47
+  size: 664, 442
+  orig: 664, 442
+  offset: 0, 0
+  index: -1
+bglight
+  rotate: false
+  xy: 2, 491
+  size: 706, 526
+  orig: 706, 526
+  offset: 0, 0
+  index: -1
+bglight2
+  rotate: false
+  xy: 1258, 697
+  size: 697, 320
+  orig: 697, 320
+  offset: 0, 0
+  index: -1
+clock01
+  rotate: true
+  xy: 1218, 460
+  size: 61, 35
+  orig: 61, 35
+  offset: 0, 0
+  index: -1
+clock02
+  rotate: false
+  xy: 1978, 617
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+clockimg
+  rotate: false
+  xy: 1656, 54
+  size: 334, 367
+  orig: 334, 367
+  offset: 0, 0
+  index: -1
+effect
+  rotate: false
+  xy: 1218, 99
+  size: 436, 322
+  orig: 436, 322
+  offset: 0, 0
+  index: -1
+effect2
+  rotate: true
+  xy: 710, 523
+  size: 494, 546
+  orig: 494, 546
+  offset: 0, 0
+  index: -1
+light01
+  rotate: true
+  xy: 1957, 755
+  size: 90, 89
+  orig: 90, 89
+  offset: 0, 0
+  index: -1
+light02
+  rotate: true
+  xy: 1957, 847
+  size: 170, 89
+  orig: 170, 89
+  offset: 0, 0
+  index: -1
+light03
+  rotate: false
+  xy: 668, 63
+  size: 199, 87
+  orig: 199, 87
+  offset: 0, 0
+  index: -1
+light04
+  rotate: false
+  xy: 668, 152
+  size: 213, 90
+  orig: 213, 90
+  offset: 0, 0
+  index: -1
+light05
+  rotate: false
+  xy: 883, 152
+  size: 190, 90
+  orig: 190, 90
+  offset: 0, 0
+  index: -1
+light06
+  rotate: false
+  xy: 869, 58
+  size: 189, 92
+  orig: 189, 92
+  offset: 0, 0
+  index: -1
+light07
+  rotate: false
+  xy: 1217, 5
+  size: 88, 92
+  orig: 88, 92
+  offset: 0, 0
+  index: -1
+point
+  rotate: false
+  xy: 710, 244
+  size: 506, 277
+  orig: 506, 277
+  offset: 0, 0
+  index: -1
+star01
+  rotate: false
+  xy: 1978, 685
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+star02
+  rotate: true
+  xy: 1075, 151
+  size: 91, 98
+  orig: 91, 98
+  offset: 0, 0
+  index: -1
+star03
+  rotate: true
+  xy: 1060, 2
+  size: 147, 155
+  orig: 147, 155
+  offset: 0, 0
+  index: -1
+txt
+  rotate: false
+  xy: 1258, 423
+  size: 718, 272
+  orig: 718, 272
+  offset: 0, 0
+  index: -1

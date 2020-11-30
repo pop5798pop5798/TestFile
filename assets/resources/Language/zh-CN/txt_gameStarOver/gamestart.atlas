@@ -1,0 +1,90 @@
+
+gamestart.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 1196, 738
+  size: 494, 247
+  orig: 494, 247
+  offset: 0, 0
+  index: -1
+bg2
+  rotate: false
+  xy: 1065, 477
+  size: 310, 259
+  orig: 310, 259
+  offset: 0, 0
+  index: -1
+bglight
+  rotate: false
+  xy: 613, 782
+  size: 581, 203
+  orig: 581, 203
+  offset: 0, 0
+  index: -1
+bgpoint
+  rotate: false
+  xy: 2, 158
+  size: 506, 277
+  orig: 506, 277
+  offset: 0, 0
+  index: -1
+bone
+  rotate: false
+  xy: 2, 2
+  size: 216, 154
+  orig: 216, 154
+  offset: 0, 0
+  index: -1
+bone2
+  rotate: false
+  xy: 1377, 611
+  size: 217, 125
+  orig: 217, 125
+  offset: 0, 0
+  index: -1
+effect1
+  rotate: true
+  xy: 1692, 549
+  size: 436, 322
+  orig: 436, 322
+  offset: 0, 0
+  index: -1
+effect2
+  rotate: false
+  xy: 613, 512
+  size: 450, 268
+  orig: 450, 268
+  offset: 0, 0
+  index: -1
+endtxt
+  rotate: false
+  xy: 2, 712
+  size: 609, 273
+  orig: 609, 273
+  offset: 0, 0
+  index: -1
+img
+  rotate: false
+  xy: 510, 360
+  size: 59, 75
+  orig: 59, 75
+  offset: 0, 0
+  index: -1
+img2
+  rotate: true
+  xy: 220, 24
+  size: 132, 178
+  orig: 132, 178
+  offset: 0, 0
+  index: -1
+starttxt
+  rotate: false
+  xy: 2, 437
+  size: 607, 273
+  orig: 607, 273
+  offset: 0, 0
+  index: -1

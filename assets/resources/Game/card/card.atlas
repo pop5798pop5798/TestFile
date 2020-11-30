@@ -1,0 +1,166 @@
+
+card.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 786, 1445
+  size: 675, 601
+  orig: 675, 601
+  offset: 0, 0
+  index: -1
+change_blue
+  rotate: true
+  xy: 1463, 1429
+  size: 617, 436
+  orig: 617, 436
+  offset: 0, 0
+  index: -1
+change_green
+  rotate: false
+  xy: 786, 1007
+  size: 617, 436
+  orig: 617, 436
+  offset: 0, 0
+  index: -1
+change_red
+  rotate: false
+  xy: 772, 569
+  size: 617, 436
+  orig: 617, 436
+  offset: 0, 0
+  index: -1
+change_yellow
+  rotate: false
+  xy: 1405, 991
+  size: 617, 436
+  orig: 617, 436
+  offset: 0, 0
+  index: -1
+light01
+  rotate: false
+  xy: 2, 1356
+  size: 782, 690
+  orig: 782, 690
+  offset: 0, 0
+  index: -1
+light02
+  rotate: false
+  xy: 2, 695
+  size: 768, 659
+  orig: 768, 659
+  offset: 0, 0
+  index: -1
+light1
+  rotate: false
+  xy: 1391, 553
+  size: 617, 436
+  orig: 617, 436
+  offset: 0, 0
+  index: -1
+light2
+  rotate: false
+  xy: 621, 131
+  size: 617, 436
+  orig: 617, 436
+  offset: 0, 0
+  index: -1
+light3
+  rotate: false
+  xy: 1240, 115
+  size: 617, 436
+  orig: 617, 436
+  offset: 0, 0
+  index: -1
+light4
+  rotate: false
+  xy: 2, 257
+  size: 617, 436
+  orig: 617, 436
+  offset: 0, 0
+  index: -1
+particuler
+  rotate: true
+  xy: 1901, 1602
+  size: 444, 104
+  orig: 444, 104
+  offset: 0, 0
+  index: -1
+star1
+  rotate: false
+  xy: 388, 200
+  size: 56, 55
+  orig: 56, 55
+  offset: 0, 0
+  index: -1
+star2
+  rotate: true
+  xy: 219, 2
+  size: 85, 83
+  orig: 85, 83
+  offset: 0, 0
+  index: -1
+star3
+  rotate: false
+  xy: 1901, 1543
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+star4
+  rotate: false
+  xy: 1859, 461
+  size: 92, 90
+  orig: 92, 90
+  offset: 0, 0
+  index: -1
+star5
+  rotate: false
+  xy: 621, 595
+  size: 100, 98
+  orig: 100, 98
+  offset: 0, 0
+  index: -1
+star7
+  rotate: false
+  xy: 219, 89
+  size: 167, 166
+  orig: 167, 166
+  offset: 0, 0
+  index: -1
+star8
+  rotate: false
+  xy: 2, 52
+  size: 215, 203
+  orig: 215, 203
+  offset: 0, 0
+  index: -1
+
+card2.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pass
+  rotate: false
+  xy: 600, 2
+  size: 547, 364
+  orig: 547, 364
+  offset: 0, 0
+  index: -1
+star6
+  rotate: false
+  xy: 1149, 99
+  size: 272, 267
+  orig: 272, 267
+  offset: 0, 0
+  index: -1
+turn
+  rotate: false
+  xy: 2, 30
+  size: 596, 336
+  orig: 596, 336
+  offset: 0, 0
+  index: -1

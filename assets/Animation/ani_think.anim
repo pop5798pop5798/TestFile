@@ -1,0 +1,25 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ani_think",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5,
+  "sample": 60,
+  "speed": 0.5,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "height": [
+        {
+          "frame": 0,
+          "value": 90
+        },
+        {
+          "frame": 0.5,
+          "value": 130
+        }
+      ]
+    }
+  },
+  "events": []
+}

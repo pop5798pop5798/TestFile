@@ -1,0 +1,153 @@
+
+result.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cloud1
+  rotate: false
+  xy: 1856, 1880
+  size: 190, 132
+  orig: 190, 132
+  offset: 0, 0
+  index: -1
+cloud2
+  rotate: true
+  xy: 1583, 1490
+  size: 180, 126
+  orig: 180, 126
+  offset: 0, 0
+  index: -1
+cloud3
+  rotate: false
+  xy: 1362, 1355
+  size: 129, 98
+  orig: 129, 98
+  offset: 0, 0
+  index: -1
+losslight
+  rotate: false
+  xy: 2, 1478
+  size: 500, 534
+  orig: 500, 534
+  offset: 0, 0
+  index: -1
+lossstart1
+  rotate: false
+  xy: 1117, 1127
+  size: 219, 215
+  orig: 219, 215
+  offset: 0, 0
+  index: -1
+lossstart2
+  rotate: false
+  xy: 504, 995
+  size: 311, 313
+  orig: 311, 313
+  offset: 0, 0
+  index: -1
+losstai
+  rotate: false
+  xy: 504, 1721
+  size: 647, 291
+  orig: 647, 291
+  offset: 0, 0
+  index: -1
+rain
+  rotate: true
+  xy: 985, 1078
+  size: 284, 130
+  orig: 284, 130
+  offset: 0, 0
+  index: -1
+rain2
+  rotate: false
+  xy: 1468, 1672
+  size: 287, 142
+  orig: 287, 142
+  offset: 0, 0
+  index: -1
+rain3
+  rotate: true
+  xy: 817, 1022
+  size: 286, 166
+  orig: 286, 166
+  offset: 0, 0
+  index: -1
+txtloss
+  rotate: true
+  xy: 295, 554
+  size: 386, 196
+  orig: 386, 196
+  offset: 0, 0
+  index: -1
+txtwin
+  rotate: false
+  xy: 1468, 1816
+  size: 386, 196
+  orig: 386, 196
+  offset: 0, 0
+  index: -1
+winimg
+  rotate: false
+  xy: 295, 306
+  size: 245, 246
+  orig: 245, 246
+  offset: 0, 0
+  index: -1
+winimglight
+  rotate: false
+  xy: 2, 2
+  size: 289, 289
+  orig: 289, 289
+  offset: 0, 0
+  index: -1
+winlight
+  rotate: false
+  xy: 504, 1310
+  size: 424, 409
+  orig: 424, 409
+  offset: 0, 0
+  index: -1
+winlight2
+  rotate: false
+  xy: 2, 942
+  size: 500, 534
+  orig: 500, 534
+  offset: 0, 0
+  index: -1
+winlightpoint
+  rotate: true
+  xy: 930, 1364
+  size: 355, 214
+  orig: 355, 214
+  offset: 0, 0
+  index: -1
+winlightpoint2
+  rotate: true
+  xy: 1146, 1344
+  size: 355, 214
+  orig: 355, 214
+  offset: 0, 0
+  index: -1
+winstar
+  rotate: false
+  xy: 1362, 1455
+  size: 219, 215
+  orig: 219, 215
+  offset: 0, 0
+  index: -1
+winstar2
+  rotate: true
+  xy: 1153, 1701
+  size: 311, 313
+  orig: 311, 313
+  offset: 0, 0
+  index: -1
+wintai
+  rotate: true
+  xy: 2, 293
+  size: 647, 291
+  orig: 647, 291
+  offset: 0, 0
+  index: -1

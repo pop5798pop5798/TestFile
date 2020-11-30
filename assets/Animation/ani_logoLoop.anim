@@ -1,0 +1,25 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ani_logoLoop",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.85,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0.85,
+          "value": [
+            0,
+            -2.412,
+            0
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}

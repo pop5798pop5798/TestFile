@@ -1,0 +1,18 @@
+1016	Last Card	最后一张	最後一張	ใบสุดส้าย
+THINK	Thinking	思考中	思考中	กำลังคิด
+TURN	Your Turn	换你了	換你了	รอบของคุณ
+WILD	Wild	换色卡	換色卡	เปลี่ยนไพ่สี
+SKIP	Skip	Pass卡	Pass卡	ไพ่Pass
+REVERSE	Reverse	转向卡	轉向卡	ไพ่เปลี่ยนทาง
+YELLOW	Yellow Diamond	黄色方块	黃色方塊	ข้าวหลามตัด สีเหลือง
+GREEN	Green Club	绿色梅花	綠色梅花	ดอกจิกสีเขียว
+RED	Red Heart	红色爱心	紅色愛心	โพธิ์แดงสีแดง
+BLUE	Blue Spade	蓝色桃子	藍色桃子	โพธิ์ดำสีฟ้า
+CARDERROR	Card wrongly play, please replay.	出牌错误，请重新出牌	出牌錯誤，請重新出牌	ออกไพ่ผิด กรุณาออกไพ่ใหม่
+NOTCARD	This card does not allow, please replay.	此牌无法出，请重新选择	此牌無法出，請重新選擇	ไพ่นี้ไม่สามารถออก กรุณาเลือกใหม่
+DEALTING	Dealting Card	丢牌中	丟牌中	กำลังทิ้งไพ่
+DRAWING	Drawing Card	抽牌中	抽牌中	กำลังจั่วไพ่
+DEALING	Dealing	发牌中	發牌中	กำลังแจกไพ่
+DRAW	Draw Card	抽牌	抽牌	กำลังจั่วไพ่
+
+

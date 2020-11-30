@@ -1,0 +1,62 @@
+
+woman.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 269, 475
+  orig: 269, 475
+  offset: 0, 0
+  index: -1
+clothes
+  rotate: false
+  xy: 273, 272
+  size: 260, 205
+  orig: 260, 205
+  offset: 0, 0
+  index: -1
+eyebrown
+  rotate: false
+  xy: 957, 438
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: false
+  xy: 535, 261
+  size: 177, 44
+  orig: 177, 44
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 273, 32
+  size: 226, 238
+  orig: 226, 238
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: false
+  xy: 765, 315
+  size: 87, 162
+  orig: 87, 162
+  offset: 0, 0
+  index: -1
+hair3
+  rotate: false
+  xy: 854, 335
+  size: 101, 142
+  orig: 101, 142
+  offset: 0, 0
+  index: -1
+lag
+  rotate: true
+  xy: 535, 307
+  size: 170, 228
+  orig: 170, 228
+  offset: 0, 0
+  index: -1

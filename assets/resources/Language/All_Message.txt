@@ -1,0 +1,63 @@
+ACCOUNTLOG	The account has been logged in.	帐号重复登入	帳號重複登入	บัญชีเข้าสู่ระบบซ้ำกัน
+ANTE	Ante	底注	底注	เงินเดิมพัน
+ARRERR	Card order invalid, please re-arrange.	排列大小不符，请重新排列	排列大小不符，請重新排列	ขนาดการจัดเรียงไม่ตรงกันโปรดจัดเรียงใหม่
+AUTODCARD	Card order invalid, use auto arrange function.	牌组错误,使用自动刁牌	牌組錯誤，使用自動刁牌	ไพ่ชุดผิดพลาด กรุณาใช้การจัดเรียงอัตโนมัติ
+BGM	BGM	音乐	音樂	เพลง
+BTHOME	When connection fail, system will automatically return to main page.	连线发生问题，将返回官网	連線發生問題，將返回官網	มีปัญหากับการเชื่อมต่อ จะกลับไปที่เว็บไซต์ทางการ
+BTLOBBY	When Connection fail ,system will automatically return to lobby.	连线发生问题，将返回大厅	連線發生問題，將返回大廳	มีปัญหากับการเชื่อมต่อ จะกลับไปที่ล็อบบี้
+CONNECTERR	When connection fail, Please confirm connection status.	连线错误，请确认连线状态	連線錯誤，請確認連線狀態	ข้อผิดพลาดการเชื่อมต่อ โปรดยืนยันสถานะการเชื่อมต่อ
+CONSEAT	Confirm Seat	确认座位	確認座位	ยืนยันที่นั่ง
+CONTACTSUP	Account error, please contact customer service, thank you!	帐号异常,请联系客服,谢谢!!	帳號異常,請聯繫客服,謝謝!!	บัญชีผิดปกติ กรุณาติดต่อฝ่ายบริการลูกค้า
+CURPOINT	Current Points	现有点数	現有點數	แต้มมีอยู่ในปัจจุบัน
+DCARD	Pick Success	刁牌成功	刁牌成功	จัดเรียงสำเร็จ
+DCARDED	Card Sorted	已刁牌	已刁牌	จัดเรียงแล้ว
+EFFBET	Effective Bet	有效投注	有效投注	การเดิมที่ถูกต้อง
+ENTERTEXT	Enter text here.	请在此输入文字	請在此輸入文字	กรุณากรอกข้อความที่นี่
+EXITLATER	The game is in progress. Please exit later.	游戏进行中，请稍后离开	遊戲進行中，請稍後離開	เกมส์กำลังดำเนินการ โปรดออกภายหลัง 
+FEEDBACK	Feedback	反馈	反饋	สอบถามปัญหา
+FEEDBACKFAIL	Failed to send feedback.	发送回馈意见失败	發送回饋意見失敗	ส่งผลตอบรับล้มเหลว
+FEEDBACKSUC	Feedback sent successfully.	发送回馈意见成功	發送回饋意見成功	ส่งผลตอบรับสำเร็จ
+GAMEDIS	Due to technical issue, this game is void.	技术上发生问题,此局已解散	技術上發生問題，此局已解散	มีปัญหาทางเทคนิครอบนี้จะถูกยกเลิก
+GAMENO	NO.	将号	將號	รอบที่
+GAMENUM	Game Number	将号	將號	รอบที่
+HISTORY	History	历史纪录	歷史紀錄	แบบฟอร์มรายงาน
+LOAD	Load	载入	載入	กำลังโหลด
+LOADTABLE	Loading table information.	载入桌资讯	載入桌資訊	กำลังโหลดข้อมูลโต๊ะ
+LOBBY	Lobby	大厅	大廳	ล็อบบี้
+LOGIN	Login	登入	登入	ล็อกอิน
+LOGINFAIL	Login Failed	登入失败	登入失敗	ล็อกอินล้มเหลว
+MAINTAIN	Server will be under maintenance soon.	伺服器即将维护	伺服器即將維護	เซิร์ฟเวอร์จะทำการอัพเดทอัตโนมัติ
+MATCHFAIL	Matching failed. Please try again.	匹配失败，请重新匹配	匹配失敗，請重新匹配	การจับคู่ล้มเหลว กรุณาจับคู่ใหม่
+MAXBUY	Maximum Buy-In	最大买入	最大買入	ซื้อสูงสุด
+MINAMOUNT	Min Amount	最低金额	最低金額	จำนวนเงินขั้นต่ำ
+MINBUY	Minimum Buy-In	最小买入	最小買入	ซื้อขั้นต่ำ
+MINENTER	Minimum Buy-In	最小携入金额	最小攜入金額	จำนวนเงินขั้นต่ำ
+NOFEEDBACK	Please enter the message.	请输入讯息	請輸入訊息	กรุณากรอกข้อความ
+NOHISTORY	No records in history.	尚无历史纪录	尚無歷史紀錄	ยังไม่มีบันทึกประวัติศาสตร์
+NOTICE	Prompt	提示	提示	เตือน
+NOWMONEY	Existing Amount	剩余金额	剩餘金额	เงินที่มีอยู่
+POINTINS	Matching failed because you have less than the minimum buy-in amount.	您的金额低于最小携入金额，匹配失败	您的金額低於最小攜入金額，匹配失敗	จำนวนเงินของคุณต่ำกว่าจำนวนพกพาขั้นต่ำ การจับคู่ล้มเหลว
+PUTERR	Number of card invalid, please re-arrange.	提交张数不符，请确认并重新提交	提交張數不符，請確認並重新提交	จำนวนใบที่ส่งไม่ถูกต้อง กรุณายืนยันแล้วส่งใหม่
+REINGLOBBY	Returning to lobby.	返回大厅中	返回大廳中	กำลังกลับไปที่ล็อบบี้ 
+RELOBBY	Return to lobby.	返回大厅	返回大廳	กลับไปที่ล็อบบี้
+RESOURCES	Resources	资源	資源	ทรัพยากร
+RULE	Rule	规则	規則	กฎกติกา
+SE	SE	音效	音效	เสียง
+SELCARD	Select a tile to discard.	请选择出牌	請選擇出牌	กรุณาเลือกไพ่ที่จะออก
+SENDING	Sending	发送中	發送中	กำลังส่ง
+SERVER	Server	伺服器	伺服器	เซิร์ฟเวอร์
+SERVERDOWN	Server will shut down soon.	伺服器即将关闭	伺服器即將關閉	เซิร์ฟเวอร์กำลังจะปิด
+TABLEINFO	Table Information	桌资讯	桌資訊	ข้อมูลของโต๊ะ
+TIME	Time	时间	時間	เวลา
+WAITGAMESYN	Waiting for game to synchronize.	等待游戏同步中	等待遊戲同步中	กำลังรอให้เกมส์ทำการซิงค์
+WAITTABLE	Waiting for a table.	等待配桌中	等待配桌中	รอสมาชิกบนโต๊ะ
+WINLOSE	Win/Loss	输赢	輸贏	ชนะ แพ้
+GAMEIN	Buy-In	入场	入場	ห้องมือใหม่
+LIMIT	Limit	限额	限額	ขีดจำกัด
+GOGameFAIL	Enter game failed , please try again later	进入游戏失败，请稍后再试!	進入遊戲失敗，請稍後再試!	เข้าเกมส์ล้มเหลว กรุณาลองอีกครั้งในภายหลัง!
+CHANNEL	Channel	分流	分流	ช่อง
+ROOMFAIL	Room Error	房间异常	房間異常	ข้อผิดพลาดของห้อง
+LEVEL1	New Player Hall	新手房	新手房	ห้องมือใหม่
+LEVEL2	Intermediate Hall	中级房	中級房	ห้องระดับกลาง
+LEVEL3	Expert Hall	高级房	高級房	ห้องระดับสูง
+
