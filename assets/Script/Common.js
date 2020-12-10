@@ -68,6 +68,7 @@ cc.Class({
 
     WebToGame: function (cmd, info) {//收到server的封包
         //cc.log("收到server封包" + cmd);
+        //console.log(cmd, info);
         switch (cmd) {
             //大廳內封包
             case "LoginServer":

@@ -52,9 +52,9 @@
       "modelUuid": "f9a76f4d-248d-46ab-96a8-d853b266dafb",
       "animationID": 0,
       "name": "door.sac",
-      "maxFrameCount": 41,
-      "totalFrameCount": 64,
-      "duration": 2.6666667461395264,
+      "maxFrameCount": 49,
+      "totalFrameCount": 51,
+      "duration": 1.1666666269302368,
       "animationFrameRate": 30,
       "subMetas": {}
     },

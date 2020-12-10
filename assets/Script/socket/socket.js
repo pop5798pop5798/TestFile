@@ -16,7 +16,7 @@ cc.Class({
         SocketSetting.setboolean = true;
         Socket.self = this;
 
-        SocketSetting.ClientSetObject.serverhost = "ws://127.0.0.1:8016";//serverIP
+        SocketSetting.ClientSetObject.serverhost = "ws://127.0.0.1:8017";//serverIP
         SocketSetting.ClientSetObject.serverport = "8011";
         SocketSetting.ClientSetObject.account = "123";
         SocketSetting.ClientSetObject.password = "456";

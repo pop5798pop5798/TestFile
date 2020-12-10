@@ -48,6 +48,8 @@ cc.Class({
         GameLogic.self = this;
         Socket = cc.find("Socketcommon").getComponent("socket");
         Common = cc.find("Socketcommon").getComponent("Common");
+        cc.systemEvent.on(cc.SystemEvent.EventType.KEY_DOWN, this.onKeyDown, this);
+        cc.systemEvent.on(cc.SystemEvent.EventType.KEY_UP, this.onKeyUp, this);
    
 
     },
@@ -55,6 +57,10 @@ cc.Class({
     start() {
         Common.setNowScene(this);
         this.send_WaitGameGroup();
+
+
+
+
     },
     //遊戲流程----------------------------------------------------------------------
     //WaitGameGroup: 發等待配桌
@@ -102,20 +108,19 @@ cc.Class({
     //GameLastPokerTableInfo 客端發要求桌資訊
     send_GameTableInfo() {
         var config = {};
-        config.Cmd = "GameLastPokerTableInfo";
+        config.Cmd = "GameTableInfo";
         config.Data = {};
         config.Data.CardType = PublicSetUp.OrderPublic;
         if (PublicSetUp.isLog) console.log("Send GameLastPokerTableInfo: ", JSON.stringify(config));
         Socket.WebonSend(JSON.stringify(config));
     },
     //客端新出牌
-    send_GamePlayCard(card, color) {
+    send_PlayerDirection(move) {
         var config = {};
-        config.Cmd = "GamePlayCard";
+        config.Cmd = "PlayerDirection";
         config.Data = {};
-        config.Data.CardNum = card;
-        config.Data.CardColor = color;
-        console.log("Send GamePlayCard : ", JSON.stringify(config));
+        config.Data.MoveNum = move;
+        console.log("Send PlayerDirection : ", JSON.stringify(config));
         Socket.WebonSend(JSON.stringify(config));
     },
     onTouchend(e) {
@@ -137,5 +142,38 @@ cc.Class({
                 break;
         }
 
+    },
+    onKeyDown: function (event) {
+        switch (event.keyCode) {
+            case cc.macro.KEY.w:
+              
+                break;
+            case cc.macro.KEY.a:
+            
+                break;
+            case cc.macro.KEY.s:
+           
+                break;
+            case cc.macro.KEY.d:
+        
+                break;
+        }
+    },
+
+    onKeyUp: function (event) {
+        switch (event.keyCode) {
+            case cc.macro.KEY.w:
+                this.send_PlayerDirection(1);
+                break;
+            case cc.macro.KEY.a:
+                this.send_PlayerDirection(3);
+                break;
+            case cc.macro.KEY.s:
+                this.send_PlayerDirection(2);
+                break;
+            case cc.macro.KEY.d:
+                this.send_PlayerDirection(4);
+                break;
+        }
     },
 });
